@@ -1,3 +1,8 @@
+# Template de cours avec exercices avec PreTeXt
+
+Template généré lui même du template [pretext-codespace](https://github.com/PreTeXtBook/pretext-codespace)
+disponible sur le repo officiel du projet PretextBook.
+
 # PreTeXt Codespace
 
 Use this template repository to quickly start a new [PreTeXt](https://pretextbook.org) project entirely in the cloud, using GitHub Codespaces.  
