@@ -2,15 +2,16 @@
 
 <pretext xml:lang="fr-FR" xmlns:xi="http://www.w3.org/2001/XInclude">
   <!-- we first include a file which contains the docinfo element: -->
-  <xi:include href="./docinfo.ptx" />
-  <book xml:id="proba-disc" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Titre du document</title>
+  <xi:include href="./docinfo.ptx"/>
+  <book xml:id="eqdiff" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>''Equations différentielles linéairres</title>
     <subtitle>Classes MP/MP*</subtitle>
 
     <!-- Include frontmatter --> 
     <xi:include href="./frontmatter.ptx" />
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter.title.ptx" />
+    <xi:include href="./ch-themes-classiques.ptx"/>
+    <xi:include href="./ch-exercices.ptx" />
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
   </book>
